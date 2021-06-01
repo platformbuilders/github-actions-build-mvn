@@ -15,7 +15,7 @@ There is no outputs for this action
 ```yaml
       # Example using this actions
       - name: MVN Package
-        uses: platformbuilders/github-actions-build-mvn@master
+        uses: platformbuilders/github-actions-build-mvn@main
 ```
 
 ## How to send updates?
